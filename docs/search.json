@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reproducible Research with R Markdown",
+    "section": "",
+    "text": "This workshop website is developed and maintained by Dr. Priyanga D. Talagala and Dr. Thiyanga S. Talagala\nThis hands-on workshop aims to equip participants with the fundamentals of reproducible research with R Markdown and related tools. The workshop will be taught in a similar style to Data Carpentry workshops. Data Carpentry's mission is to train researchers in the core data skills for efficient, shareable, and reproducible research practices."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#brief-content",
+    "href": "index.html#brief-content",
+    "title": "Reproducible Research with R Markdown",
+    "section": "Brief content",
+    "text": "Brief content\n\nReproducibility crisis\nReproducible report writing with R Markdown\nReproducible thesis writing with R Markdown\nReproducible manuscript writing with R Markdown\nReproducible presentation slides with R Markdown\nOnline publishing with R Markdown\nIntroduction to Quarto, a next generation R Markdown"
+  }
+]
